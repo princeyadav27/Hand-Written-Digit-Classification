@@ -1,2 +1,19 @@
-# Hand-Written-Digit-Classification
-A simple handwritten digit classifier using the MNIST dataset with Keras and a neural network. The model recognizes digits (0–9) from grayscale images and demonstrates basic deep learning for image classification.
+Handwritten Digit Classifier
+
+A simple handwritten digit classifier built using the MNIST dataset, Keras, and a neural network.
+The model predicts digits (0–9) from 28×28 grayscale images.
+
+Tech Stack
+Python
+TensorFlow / Keras
+NumPy
+Matplotlib
+Features
+MNIST dataset preprocessing
+Neural network training
+Model evaluation and prediction
+
+
+Run the Project
+pip install -r requirements.txt
+python main.py
