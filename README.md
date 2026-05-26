@@ -1,6 +1,7 @@
 # Handwritten Digit Classifier
 
 A simple handwritten digit classifier built using the MNIST dataset, Keras, and a neural network. The model predicts digits (0–9) from 28×28 grayscale images.
+A simple Neural Netwok preview. 
 
 ## Tech Stack
 - Python
